@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "deasync": "^0.1.4",
-    "debug": "2.2.0",
+    "debug": "2.6.9",
     "mongodb-prebuilt": "^4.6.0",
     "portfinder": "1.0.2",
     "rimraf": "^2.5.1"
